@@ -1,10 +1,11 @@
-import './App.css'
+import './assets/App.css'
+import RouterConfig from './router/index'
 
 function App() {
 
   return (
     <>
-      
+      <RouterConfig></RouterConfig>
     </>
   )
 }
